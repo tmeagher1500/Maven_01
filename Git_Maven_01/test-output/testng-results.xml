@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-05T18:54:14 EST" name="Default suite" finished-at="2024-03-05T18:54:14 EST" duration-ms="71">
+  <suite started-at="2024-03-05T20:33:05 EST" name="Default suite" finished-at="2024-03-05T20:33:06 EST" duration-ms="890">
     <groups>
     </groups>
-    <test started-at="2024-03-05T18:54:14 EST" name="Default test" finished-at="2024-03-05T18:54:14 EST" duration-ms="71">
+    <test started-at="2024-03-05T20:33:05 EST" name="Default test" finished-at="2024-03-05T20:33:06 EST" duration-ms="890">
       <class name="com.gitDemo_01.No_GitTest">
-        <test-method signature="noGitTest()[pri:0, instance:com.gitDemo_01.No_GitTest@485966cc]" started-at="2024-03-05T18:54:14 EST" name="noGitTest" finished-at="2024-03-05T18:54:14 EST" duration-ms="12" status="PASS">
+        <test-method signature="noGitTest()[pri:0, instance:com.gitDemo_01.No_GitTest@31fa1761]" started-at="2024-03-05T20:33:06 EST" name="noGitTest" finished-at="2024-03-05T20:33:06 EST" duration-ms="162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- noGitTest -->
