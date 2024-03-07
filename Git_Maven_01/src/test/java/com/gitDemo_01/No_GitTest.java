@@ -16,5 +16,6 @@ public class No_GitTest {
 	public void noGitIgnore() {
 		System.out.println("GitTest04");
 		System.out.println("GitTest05");
+		System.out.println("GitTest06");
 	}
 }
